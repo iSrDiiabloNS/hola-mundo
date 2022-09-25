@@ -1,4 +1,4 @@
-# hola-mundo
-mi primer repositorio de prueba
+# Hola-Mundo
+mi primer repositorio
 Autor: iSrDiiabloNS
 Fecha: 25/09/2022
